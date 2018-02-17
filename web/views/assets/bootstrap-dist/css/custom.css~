@@ -1,0 +1,30 @@
+#login{
+    width: 400px;
+    text-align: center;
+}
+.navigation{
+    height: 80px;
+    background-color: darkslateblue;
+}
+.header{
+    text-align: center;
+    color: white;
+    padding-top: 25px;
+
+}
+h{
+    border: outset;
+    font-stretch: extra-expanded;
+    font-size: large;
+    font-style: oblique;
+}
+.welcome{
+    float: right;
+    padding-top: 25px;
+    margin-right: 15px;
+}
+.name{
+    float: right;
+    margin-right: 50px;
+    padding-top: 25px;
+}

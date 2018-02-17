@@ -1,0 +1,6 @@
+/**
+ * Created by ronnie on 4/29/16.
+ */
+$(document).ready(function(){
+    $('#err').fadeOut(4000);
+});
